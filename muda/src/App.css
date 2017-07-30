@@ -1,0 +1,38 @@
+body {
+  //background-image: url(./imgs/road.jpeg);
+  //background-size: 100% 200%;
+  //background-size: cover;
+  //background-repeat: no-repeat;
+  background-color: #e3efee;
+
+}
+
+.App{
+  text-align: center;
+  font-size: 35px;
+  margin-top: 20%;
+}
+
+.App-title {
+  font-size: 45px;
+  color: #4286f4;
+}
+
+.App-time-span {
+  font-size: 30px;
+  color: #6309ea;
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+  display: inline;
+  color: #a131c4;
+  font-size: 20px;
+  margin: 5px;
+}
+
+.New-date {
+  display: inline-flex;
+  font-size: 18px;
+  text-align: center;
+  color: #c4319c;
+}
